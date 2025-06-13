@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @akashzr0
-- 👀 I’m interested in ...Data Analytics
-- 🌱 I’m currently learning ...Data Analysis
-- 💞️ I’m looking to collaborate on ...Data Analysis Projects
+- 👋 Hi, I’m Akash Bhavanthula
+- 👀 I’m interested in ...Python Backend Developer
+- 🌱 I’m currently learning ...Python Backend and Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on ...Backend Development Projects
 - 📫 How to reach me ...mail me on akashzr0@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
